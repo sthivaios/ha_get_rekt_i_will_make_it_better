@@ -1,5 +1,5 @@
 body {
-    background-image: url("bg.jpg") no-repeat fixed center;
+    background-image: url("/bg.jpg") no-repeat fixed center;
     background-color: #f69bc9;
     color: #343434;
     max-width: 650px;
