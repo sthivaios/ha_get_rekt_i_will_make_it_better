@@ -8,16 +8,16 @@ body {
     font-weight: 300;
 }
 
-#wrapper {
+.container {
     border: 1px solid blue;
 }
-#div1 {
+img {
     display: inline-block;
     width:120px;
     height:120px;
     border: 1px solid red;
 }
-#div2 {
+.text {
     display: inline-block;
     width:160px;
     height:160px;
