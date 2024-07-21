@@ -1,9 +1,8 @@
 body {
     color: white;
     background-image: url("/bg.jpg");
-    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-size: auto;
     max-width: 650px;
     padding: 0px 10px;
     margin: 40px auto;
