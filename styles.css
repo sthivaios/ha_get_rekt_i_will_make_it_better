@@ -1,4 +1,5 @@
 body {
+    background: f69bc9 url("https://raw.githubusercontent.com/aervnu/aervnu.github.io/main/bg.jpg") no-repeat fixed center; 
     background-color: #343434;
     color: #FFFFFF;
     max-width: 650px;
@@ -6,22 +7,6 @@ body {
     margin: 40px auto;
     font-family: "Manrope";
     font-weight: 300;
-}
-
-.container {
- display: grid;
- align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
- column-gap: 5px;
-}
-
-img {
-  max-width: 100%;
-  max-height:100%;
-}
-
-.text {
-  font-size: 70px;
 }
 
 center {
